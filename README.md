@@ -1,22 +1,6 @@
-#Blaze Morgana
-##A Personal Repository
+# Blaze Morgana
 
-###I'm an emergency manager working with technology and programming to improve products used by those within or attached to the Emergency Management discipline.
-###At this time, I am working on projects within the Juvare WebEOC platform; however, my tasks also include GIS, Communications Systems, and Safety.
+## A Personal Repository
 
-
-
-<!--
-**BlazeMorgana/BlazeMorgana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm an emergency manager working with technology and programming to improve products used by those within or attached to the Emergency Management discipline.
+### At this time, I am working on projects within the Juvare WebEOC platform; however, my tasks also include GIS, Communications Systems, and Safety.
